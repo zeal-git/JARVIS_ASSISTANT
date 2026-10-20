@@ -1,3 +1,5 @@
+*/wakeword/wakeword.py/*
+
 import sounddevice as sd
 import numpy as np
 from openwakeword.model import Model
