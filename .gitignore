@@ -1,0 +1,36 @@
+# Python
+
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual env
+
+venv/
+.venv/
+env/
+
+# Env variables and secrets 
+.env
+.env.*
+
+# IDE
+
+.vscode/
+
+# Logs and recording 
+
+*.log
+recording.wav
+
+# Models and files and caches
+
+*.onnx
+*.tflite
+*.pt 
+*.pth 
+models/
+ .cache/
+ 
+
+
