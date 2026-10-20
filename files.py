@@ -1,3 +1,5 @@
+*/automation/files.py/
+
 import os 
 
 def open_downloads():
