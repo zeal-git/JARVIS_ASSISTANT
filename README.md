@@ -1,6 +1,6 @@
 A python based personal voice assitance for WINDOWS, inspired by JARVIS. This project combines speech recognition, voice response, wake-word detection, and windows automation.
 
-Features:
+FEATURES:
 1) Wake word detection: Activates whenever user says "Hey Jarvis"
 2) Speech Recoginition: Converts spoken commands into text using Faster-Whisper
 3) Voice responses: Responds using text-to-speech with pyttsx3
@@ -16,10 +16,10 @@ TECH STACK:
 5) SoundDevice
 6) pyttsx3
 
-Current Status:
+CURRENT STATUS:
 This is an ongoing personal project. Features and commands handling will continue to improve as development progresses.
 
-Future Enhancement:
+FUTURE ENHANCEMENT:
 1) More natural language command handling
 2) Expand file and folder operations
 3) Additional system automation
