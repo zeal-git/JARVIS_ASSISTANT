@@ -1,3 +1,5 @@
+*/brain/brain.py/*
+
 import datetime
 from automation.apps import open_vscode, open_notepad,open_task_manager, open_calculator
 from automation.browser import open_youtube, open_google, open_github
