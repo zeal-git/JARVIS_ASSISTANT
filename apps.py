@@ -1,3 +1,5 @@
+*/automation/apps.py/*
+
 import os
 import subprocess
 
