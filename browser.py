@@ -1,3 +1,5 @@
+*/automation/browser.py/
+
 import webbrowser
 import os
 
