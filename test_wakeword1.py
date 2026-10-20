@@ -1,3 +1,5 @@
+*/wakeword/test_wakeword1.py/
+
 from wakeword.wakeword import load_wakeword_model
 import sounddevice as sd
 import numpy as np
